@@ -1,2 +1,13 @@
-# SCT_DS_4
-Analyzes traffic accident data to identify patterns in weather, road conditions, light, and accident severity. Includes visualizations and insights using Python, Pandas, Matplotlib, and Seaborn.
+# Traffic Accident Data Analysis
+
+This project analyzes traffic accident data to identify patterns in:
+- Weather conditions
+- Road surface types
+- Light conditions (time of day)
+- Accident severity
+- Contributing factors
+
+## Tools Used
+Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, VS Code
+
+
